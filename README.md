@@ -29,3 +29,5 @@ PubSub for the browser
 ```
 
 ## License
+
+**MIT**
