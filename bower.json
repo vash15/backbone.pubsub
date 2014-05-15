@@ -1,0 +1,29 @@
+{
+  "name": "backbone.pubsub",
+  "version": "1.0.0",
+  "homepage": "https://github.com/vash15/pubsub",
+  "authors": [
+    "Michele Belluco"
+  ],
+  "description": "PubSub for the browser",
+  "main": "lib/pubsub.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "backbone",
+    "pubsub"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "backbone": "~1.1.2"
+  }
+}
