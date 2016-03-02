@@ -1,0 +1,34 @@
+{
+  "name": "backbone.pubsub",
+  "version": "1.0.0",
+  "description": "PubSub for the browser",
+  "main": "lib/pubsub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vash15/pubsub.git"
+  },
+  "keywords": [
+    "backbone",
+    "pubsub"
+  ],
+  "contributors": [
+    { "name" : "Matteo Baggio", 
+      "email" : "matteo.baggio@gmail.com"
+    },
+    { "name" : "Michele Belluco", 
+      "email" : "michele@belluco.info"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vash15/pubsub/issues"
+  },
+  "homepage": "https://github.com/vash15/pubsub#readme",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "backbone": "~1.1.2"
+  }
+}
