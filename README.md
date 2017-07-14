@@ -8,6 +8,8 @@ PubSub for the browser
 
 ```
 	bower install backbone.pubsub --save
+	or 
+	npm install backbone.pubsub --save
 ```
 
 ## Usage
