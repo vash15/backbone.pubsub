@@ -1,6 +1,6 @@
 {
   "name": "backbone.pubsub",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "PubSub for the browser",
   "main": "lib/pubsub.js",
   "scripts": {
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vash15/pubsub.git"
+    "url": "git+https://github.com/vash15/backbone.pubsub.git"
   },
   "keywords": [
     "backbone",
     "pubsub"
   ],
   "contributors": [
-    { "name" : "Matteo Baggio", 
+    { "name" : "Matteo Baggio",
       "email" : "matteo.baggio@gmail.com"
     },
-    { "name" : "Michele Belluco", 
+    { "name" : "Michele Belluco",
       "email" : "michele@belluco.info"
     }
   ],
